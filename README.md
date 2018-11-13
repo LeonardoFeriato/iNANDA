@@ -1,6 +1,6 @@
 # iNANDA
 
-Consulte facilmente os Diagnósticos de Enfermagem da NANDA Internacional, Inc.
+Consulte facilmente os Diagnósticos de Enfermagem da NANDA Internacional, Inc. </br>
 See easily the nursing Diagnoses of NANDA international, Inc.
 
 ### Installing
