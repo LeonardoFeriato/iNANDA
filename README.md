@@ -5,5 +5,5 @@ See easily the nursing Diagnoses of NANDA international, Inc. [EN-US]
 
 ### Instalação / Installing
 Baixe agora o Beta na Google Play </br>
-Donwload Beta now on Google Play
+Donwload Beta now on Google Play </br>
 https://play.google.com/store/apps/details?id=com.inanda
