@@ -1,7 +1,7 @@
 # iNANDA
 
 Consulte facilmente os Diagnósticos de Enfermagem da NANDA Internacional, Inc. [PT-BR]</br>
-See easily the nursing Diagnoses of NANDA international, Inc. [EN-US]
+See easily the nursing Diagnoses of NANDA International, Inc. [EN-US]
 
 ### Instalação / Installing
 Baixe agora o Beta na Google Play </br>
